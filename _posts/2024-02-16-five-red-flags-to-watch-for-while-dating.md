@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Crucial Red Flags to Watch for While Dating"
-categories: [expediate, dating coaching, indian dating, Expediate india dating coaching app]
+categories: [expediate, dating coaching, indian dating, expedate india dating coaching app]
 image: assets/images/ha1.jpg
 ---
 
@@ -20,6 +20,6 @@ Fifth are the attempts to isolate or control. Healthy relationships allow both p
 
 To Conclude, while it's important to give people a chance, it's equally crucial to recognize and respond to these red flags in order to protect your emotional and mental well-being. Ignoring these warning signs could lead to a relationship filled with stress, frustration, and even harm. Remember, a healthy relationship should be based on trust, mutual respect, and open communication. By staying attentive to these red flags, you empower yourself to make informed decisions about your dating journey, increasing your chances of finding a partner who truly values and respects you.
 
-[Get Expediate: Free Indian Dating Coaching App: Android](https://play.google.com/store/apps/details?id=com.expediate.app&hl=en_IN&gl=US)
+[Get expedate: Free Indian Dating Coaching App: Android](https://play.google.com/store/apps/details?id=com.expedate.app&hl=en_IN&gl=US)
 
-[Get Expediate: Free Indian Dating Coaching App: IOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
+[Get expedate: Free Indian Dating Coaching App: IOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
