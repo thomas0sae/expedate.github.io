@@ -2,7 +2,7 @@
 layout: post
 title: "The Power of Shared Stories: Connecting NRIs Across Borders"
 categories: [expedate, dating coaching, india dating, indian dating, expedate dating coaching app]
-image: assets/images/nrimeet-post-6.png
+image: assets/images/expedate-post-6.png
 ---
 
 

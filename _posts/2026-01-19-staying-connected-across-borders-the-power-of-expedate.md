@@ -2,7 +2,7 @@
 layout: post
 title: "Staying Connected Across Borders: The Power of expedate"
 categories: [expediate, dating coaching, india dating, indian dating, expediate dating coaching app]
-image: assets/images/nrimeet-post-4.png
+image: assets/images/expedate-post-4.png
 ---
 
 
@@ -35,11 +35,11 @@ Staying connected to your roots while living abroad is important, and [expedate 
 
 [expedate Indian Dating Coaching App](https://expedate.app/download)
 
-[Get expedate: Indian Dating App for android](https://play.google.com/store/apps/details?id=com.expedate.app&hl=en_IN&gl=US)
+[Get expedate: Indian Dating Coaching App for android](https://play.google.com/store/apps/details?id=com.expedate.app&hl=en_IN&gl=US)
 
-[Get expedate: Indian Dating App for iOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
+[Get expedate: Indian Dating Coaching App for iOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
 
 
 #### About expedate Indian Dating Coaching App
 
-expedate Indian Dating Coaching app is an innovating free new dating coaching app which helps Indian Dating Single girls match with Indian Dating single boys. It helps Indian Dating Single boys match with India Dating single girls. expedate India Dating Coaching app ensures a secure space for you to explore, connect, and engage with other Indian  singles. expedate is a best dating coaching app in India without payment and you can explore many free profiles and chat with them. expedate is also a Dating app for married people and for married Indians and India singles.
+expedate Indian Dating Coaching app is an innovating free new dating coaching app which helps Indian Dating Single girls match with Indian Dating single boys. It helps Indian Dating Single boys match with India Dating single girls. expedate India Dating Coaching app ensures a secure space for you to explore, connect, and engage with other Indian  singles. expedate is a best dating coaching app in India without payment and you can explore many free profiles and chat with them. expedate is also a Dating coaching app for married people and for married Indians and India singles.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Healing and Renewal: Navigating Life After Heartbreak | expedate: Indian Dating Coaching App "
-categories: [expediate, dating coaching, indian dating, india dating app]
+categories: [expediate, dating coaching, indian dating, india dating coaching app]
 image: assets/images/ha8.jpg
 ---
 

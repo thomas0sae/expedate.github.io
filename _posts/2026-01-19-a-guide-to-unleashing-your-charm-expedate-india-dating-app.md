@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top Tips to Unleash Your Inner Attraction: Proven Ways to Boost Your Charm"
-categories: [expediate, dating, india dating, indian dating, expediate dating app]
+categories: [expediate, dating, india dating, indian dating, expediate dating coaching app]
 image: assets/images/had9.jpg
 ---
 

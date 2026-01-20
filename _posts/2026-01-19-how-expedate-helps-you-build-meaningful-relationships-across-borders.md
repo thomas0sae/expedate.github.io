@@ -2,7 +2,7 @@
 layout: post
 title: "Connecting NRIs: How expedate Helps You Build Meaningful Relationships Across Borders"
 categories: [expediate, dating coaching, india dating, indian dating, expediate dating coaching app]
-image: assets/images/nrimeet-post-2.png
+image: assets/images/expedate-post-2.png
 ---
 
 

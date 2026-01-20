@@ -38,9 +38,9 @@ To conclude, while long-distance relationships may come with their share of diff
 
 [expedate Indian Dating Coaching App](https://expedate.app/download)
 
-[Get expedate: Indian Dating App for android](https://play.google.com/store/apps/details?id=com.expedate.app&hl=en_IN&gl=US)
+[Get expedate: Indian Dating Coaching App for android](https://play.google.com/store/apps/details?id=com.expedate.app&hl=en_IN&gl=US)
 
-[Get expedate: Indian Dating App for iOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
+[Get expedate: Indian Dating Coaching App for iOS](https://apps.apple.com/us/app/expediate-find-meet-marry-nris/id6448742453)
 
 #### About expedate Indian Dating Coaching App
 

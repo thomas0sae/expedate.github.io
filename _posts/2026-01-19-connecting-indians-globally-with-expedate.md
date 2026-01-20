@@ -2,7 +2,7 @@
 layout: post
 title: "Connecting Indians Globally with expedate"
 categories: [expediate, dating coaching, india dating, indian dating, expediate dating coaching app]
-image: assets/images/nrimeet-post-12.png
+image: assets/images/expedate-post-12.png
 ---
 
 
