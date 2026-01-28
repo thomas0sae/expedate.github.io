@@ -9,8 +9,6 @@ Last updated May 19, 2023
 
 Welcome to eXPeDATE’s End User License Agreement. This is a contract between you and Emwave Technologies (as defined further below) and we want you to know yours and our rights before you use the eXPeDATE website or application (“eXPeDATE” or the “App” or "Licensed Application"). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
 
-eXPeDATE is licensed to You (End-User) by Emwave Technologies Private Limited, India ("Licensor"), for use only under the terms of this License Agreement.
-
 By downloading the Licensed Application from Apple's software distribution platform ("App Store") , and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. App Store is referred to in this License Agreement as "Services."
 
 The parties of this License Agreement acknowledge that the Services are not a Party to this License Agreement and are not bound by any provisions or obligations with regard to the Licensed Application, such as warranty, liability, maintenance and support thereof. Emwave Technologies Private Limited, not the Services, is solely responsible for the Licensed Application and the content thereof.
@@ -181,7 +179,7 @@ In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer
     Emwave Technologies Private Limited and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Emwave Technologies Private Limited, and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
 
 16. APPLICABLE LAW
-    This License Agreement is governed by the laws of India excluding its conflicts of law rules.
+    This License Agreement is governed by the laws excluding its conflicts of law rules.
 
 17. MISCELLANEOUS
     If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
